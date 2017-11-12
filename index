@@ -317,7 +317,7 @@
 			});
 
 			var owl = $(".thumbnails");
-			owl.OwlCarousel2({
+			owl.OwlCarousel ({
 
 				items: 4,
 				loop: true,
